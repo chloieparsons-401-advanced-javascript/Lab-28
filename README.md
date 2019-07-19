@@ -39,4 +39,4 @@ Lab 28: Props & State
 
 #### Documentation
 
-![Props & State](assets/props_state.JPG)
+[Props & State](https://codesandbox.io/s/lab-28-assignment-1-part-1-ulfgb) Please navigate to ```assets/props_state.JPG``` in codesandbox.
